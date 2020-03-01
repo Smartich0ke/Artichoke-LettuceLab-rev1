@@ -6,4 +6,4 @@ The Artichoke LettuceLab Arduino Mega sheild is designed to make the constructio
 
 FILES:
 
-lettucelab-master.zip All nececarry gerber files compressed into a zip file.
+lettucelab-master.zip: All nececarry gerber files compressed into a zip file.
