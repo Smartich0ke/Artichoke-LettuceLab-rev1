@@ -7,4 +7,5 @@ The Artichoke LettuceLab Arduino Mega sheild is designed to make the constructio
 FILES:
 
 lettucelab-master.zip : All nececarry gerber files compressed into a zip file.
+
 pcb-files : all kicad pcb files, inside that is "gerbers1.0"  which has all the gerbers in it.
