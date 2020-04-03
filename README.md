@@ -13,4 +13,4 @@ lettucelab-master.zip : All nececarry gerber files compressed into a zip file.
 
 pcb-files : all kicad pcb files, inside that is "gerbers1.0"  which has all the gerbers in it.
 
-wheels1.0.ino : Arduino sketch for wheels and lights.
+wheels1.0.ino : Example Arduino sketch for wheels and lights.
